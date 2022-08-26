@@ -2,6 +2,7 @@ package man;
 
 /**
  * Hellooooo WORLD!
+ * Welcome to jenkins!
  *
  */
 public class App 
