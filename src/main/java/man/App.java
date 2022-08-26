@@ -1,7 +1,7 @@
 package man;
 
 /**
- * Hello world!
+ * Hello WORLD!
  *
  */
 public class App 
